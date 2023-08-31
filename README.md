@@ -1,8 +1,8 @@
-### Olá! Eu sou o Emmanuel Barros 👋
+### Olá! Eu sou EmmanueL Barros 👋
 
 - 🔭 Atualmente trabalho nos Correios e sou fotógrafo na @uelfotografia
-- 🌱 Cursando ADS na UNIP, desenvolvimento Full Stack na Fuctura e Back-End na Softex.
-- 🥸 Estudando JAVA, BD, ANGULAR, SPRING BOOT, JAVASCRIPT...
+- 🌱 Cursando ADS na UNIP, desenvolvimento Full Stack na Fuctura Tecnologia e Back-End na Softex.
+- 🥸 Estudando JAVA, DataBase, ANGULAR, SPRING BOOT, JAVASCRIPT...
 - 📫 Contate-me o email: emmanuelbarros@hotmail.com
 - 😄 Pronouns: ele/dele
 
